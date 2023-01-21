@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ada7f518-eb6c-4cfd-8a2a-2b07d80d0a19" name="Changes" comment="first commit">
+    <list default="true" id="ada7f518-eb6c-4cfd-8a2a-2b07d80d0a19" name="Changes" comment="Is anybody out there?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,8 @@
       <workItem from="1674300734550" duration="10000" />
       <workItem from="1674300807650" duration="3119000" />
       <workItem from="1674304221713" duration="428000" />
+      <workItem from="1674304664371" duration="208000" />
+      <workItem from="1674305469440" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1674303934816</created>
@@ -61,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674303934816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Is anybody out there?">
+      <created>1674304794865</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674304794865</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Is anybody out there?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Is anybody out there?" />
   </component>
 </project>
